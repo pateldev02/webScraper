@@ -1,0 +1,17 @@
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Task >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Module-1(with sequelize)
+
+(1) Add URL.
+(2) Reaching the webpage.
+(3) Extracting the elements.
+(4) Logging in the terminal.
+(5) Adding to Database.
+
+Module-2
+
+(1) Admin-Login
+(2) Register New Admin 
+(3) Can see Total Scrapped Data on Admin-side and also on XML file and Database. (With Count)
+(4) Can see Total Registered Data on Admin-side and Database. (With Count)
+ 

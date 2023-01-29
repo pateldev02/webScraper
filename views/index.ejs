@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Details</title>
+</head>
+
+<style>
+
+button {
+ 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+
+
+body
+{
+	/*background-image: url("img/2126186.jpg");*/
+    background-color:black;
+	background-size:cover;
+	
+}
+
+h1
+{
+	margin:150px;
+	
+	text-align:center;
+	font-size:50px;
+	color:white;
+	
+}
+
+form
+{
+    margin:-100px;
+	
+	text-align:center;
+	font-size:20px;
+	color:white;
+	
+
+}
+
+
+
+</style>
+
+<body>
+
+	<h1>Add Web-Site Details</h1>
+
+	<form action="/data" method="POST">
+        URL:<input type="url" placeholder="Enter Here" name="url" required="required">
+        <br>
+        <br>
+		Password:<input type="password" placeholder="Enter Here" name="password" required="required">
+		<br> 
+		<br> 
+		<button type="submit" style="background-color:green" >Start</button>
+		<button type="reset" style="background-color:red" >Clear</button>
+		
+	</form>
+
+
+
+</body>
+</html>
